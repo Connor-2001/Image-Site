@@ -1,2 +1,9 @@
 # Image-Site
-This is a site I am currently working on a social media type website. I am not nearly done and have much more to go but here it is so far. You can try it out if you want. Also please report any problems or bugs you encounter. I will make sure to read them. I have a homepage, images, a video, and more! Including stuff like an about page, future updates, new updates, and other areas. I hope you like my site and don't encounter any problems. Please give me feedback on what I should improve and create.
+
+This will teach you the installation of this application which will take you to a site that is not online because I am a teen and don't have money (oof).
+
+It's very simple.
+
+1: Open the zip file. Oh, you already had to do that to get here.
+2: Double click on the index file or home/options file
+3: Explore the site and stay updated!
